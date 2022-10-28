@@ -1,4 +1,6 @@
-# Passion-Lab
+# Passion-Lab  
+` from Passion import Programming `
+> _Programming from Passion_
 
 - 👋 Hi, I’m Subhankar Samanta @passion-lab
 - 👀 I’m interested in tweaking existing entities and inventing something unique by means of coding in various languages.
